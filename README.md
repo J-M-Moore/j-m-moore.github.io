@@ -1,2 +1,2 @@
-# jamesmmoore.github.io
+# j-m-moore.github.io
 Personal website.
