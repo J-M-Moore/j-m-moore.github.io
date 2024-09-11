@@ -10,6 +10,22 @@ background-image:url("MathsforWebsite.png");
 padding-top:450px;
 }
 
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 90%;
+}
+
+td, th {
+  border: 1px solid #ccccff;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #ccccff;
+}
+
 
 
 
